@@ -1,0 +1,12 @@
+/* Все кнопки будут 100 на 30 пикселей, со скруглёнными углами и надписью заглавными буквами */
+.project-button {
+    width: 100px;
+    height: 30px;
+    border-radius: 4px;
+    text-transform: uppercase;
+  }
+  /* Кнопка отправки формы будет синего цвета стали с белой надписью */
+  .project-button_type_submit {
+    background-color: steelblue;
+    color: white;
+  }
